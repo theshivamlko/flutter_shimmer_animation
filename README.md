@@ -1,5 +1,6 @@
 # Shimmer Animation Flutter
- 
+ Read the blog on this here https://navoki.com/flutter-shimmer-animation 
+
 <img src="https://github.com/theshivamlko/flutter_shimmer_animation/blob/master/example.gif?raw=true">
 
 
